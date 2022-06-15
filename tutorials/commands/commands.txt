@@ -1,0 +1,26 @@
+call	calls a batch file from another one
+cd	change directory
+cls	clear screen
+cmd	start command prompt
+color	change console color
+date	show/set date
+dir	list directory content
+echo	text output
+exit	exits the command prompt or a batch file
+find	find files
+hostname	display host name
+pause	pauses the execution of a batch file and shows a message
+runas	start a program as another user
+shutdown	shutdown the computer
+sort	sort the screen output
+start	start an own window to execute a program or command
+mountvol	assign/delete drive mountpoints
+verify	monitoring whether volumes are written correctly
+vol	show volume description and serial numbers of the HDDs
+Miscellaneous:
+for	for loop
+gpresult	display group policies
+gpupdate	update group policies
+perfmon	start performance monitor
+prompt	change command prompt
+reg	add/read/import/export registry entries
